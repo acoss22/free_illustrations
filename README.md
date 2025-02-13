@@ -1,6 +1,9 @@
 # Free Illustrations Royalty-Free & Copyright-Free   
 
 ## General Illustration Resources  
+These sites provide their own unique illustrations, either created by in-house artists or through curated design systems. You browse their galleries and download assets directly.
+
+
 - [Pixabay](https://pixabay.com/illustrations/)  
 - [Freepik](https://www.freepik.com)  
 - [Drawkit](https://www.drawkit.io) 🎨  
@@ -25,6 +28,8 @@
 - [ThemeIsle Illustrations](https://themeisle.com/illustrations/) 🏝️  
 
 ## Additional Free Illustration Directories  
+These are aggregators that collect illustrations from multiple sources. 
+
 - [Get Illustrations](https://getillustrations.com/)  
 - [Free Illustrations XYZ](https://freeillustrations.xyz/illustration/website-illustrations/)  
 - [Figma Community Illustrations](https://www.figma.com/community/illustrations?resource_type=mixed&editor_type=all&price=all&sort_by=all_time&creators=all)  
